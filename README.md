@@ -1,2 +1,2 @@
 # text-classification
-A text classification task using transformer
+several text classification tasks using neural network
